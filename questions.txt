@@ -1,0 +1,83 @@
+Ashlan Olson
+Prolog Lab Questions
+
+EC1. X = 'Viscount Linley'
+     X = 'Lady Sarah Chatto'
+
+EC2. X = 'Viscount Linley'
+     X = 'Lady Sarah Chatto'
+
+
+1. X = 'King George VI'
+
+2. X = 'Queen Mary'
+
+3. X = 'King George V'
+
+4. X = 'King George V'
+   X = 'Queen Mary'
+
+5. X = 'Prince William'
+   X = 'Prince Henry'
+
+6. X = 'Princess Margaret'
+
+7. X = 'Prince Charles'
+   X = 'Prince Andrew'
+   X = 'Prince Edward'
+
+8. X = 'Princess Anne'
+
+9. False for both my rules 'auntblood' and 'auntmarriage'
+
+10. X = 'Catherine Middleton'
+
+11. X = 'Prince Charles'
+    X = 'Lady Diana Spencer'
+    X = 'Queen Elizabeth II'
+    X = 'Prince Philip'
+    X = 'King George VI'
+    X = 'Lady Elizabeth Bowes-Lyon'
+    X = 'King George V'
+    X = 'Queen Mary'
+    X = 'King Edward VII'
+    X = 'Princess Alexandra of Denmark'
+    X = 'Prince Albert'
+    X = 'Queen Victoria'
+
+12. False
+
+13. False
+
+14. X = 'Queen Victoria'
+    X = 'Princess Alexandra of Denmark'
+    X = 'Queen Mary'
+    X = 'Mrs Simpson'
+    X = 'Lady Elizabeth Bowes-Lyon'
+    X = 'Prince Albert'
+    X = 'King Edward VII'
+    X = 'King George V'
+    X = 'King Edward VIII'
+    X = 'King George VI'
+    X = 'Prince Philip'
+
+15. X = 'King George V'
+
+16. I really like how Prolog can take information from a dataset in order to solve rules that
+    are defined by the user. The rules that are created are very simplistic and yet the program
+    was able to display semi-complicated information as a result.I also like how user-friendly Prolog is, 
+    it took me the least amount of time out of all the labs because of this.
+
+17. For some reason Prolog really fits with how my mind works, so I actually really enjoyed programming 
+    in it; however, the only thing that I did not like was having to upload my file everytime I added
+    a new rule. Sometimes it took me awhile to realize why my program was giving me an error until I 
+    realized I had not uploaded my edited file.
+
+18. I really enjoyed this lab. I found it extremely interesting and the only hard part for me was thinking
+    conceptually how to define the rules I was making. Other than that, this lab was a lot of fun!
+
+19. Between 5 and 7 hours. 
+
+20.There may be a time I use Prolog again. I think it would be useful if I was working with datasets
+   that need to talk to each other and/or are have related information that Prolog would easily be able
+   to decipher through and produce clarity.
